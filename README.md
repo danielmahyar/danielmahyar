@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @danielmahyar and I am currently working towards becoming an independent full stack dev
-- 👀 I’m interested in Javascript frameworks and integrating more machine learning into the web
-- 🌱 I’m currently learning React, React Native & Express
-- 💞️ I’m looking to collaborate on projects regarding integrating AI and robotics onto a web enviroment. For example a greenhouse with servo motors being controlled by an application on the front end
-- 📫 How to reach me:
-thediamonds764@gmail.com
+# 👋 Hi, I’m @danielmahyar
+I am a Full Stack Developer studying Softwaretechnology (BS.c) at The Technical University of Denmark.
 
-<!---
-danielmahyar/danielmahyar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My current goals
+- Create more independent side projects to further my skills in various technologies.
+- Contribute to the Open Source Community whenever I think I can contribute.
+- Get a deeper understanding of Computer Systems on a Mathmatical 
+
+# 📫 How to reach me:
+Email: thediamonds764@gmail.com or s224797@student.dtu.dk
+LinkedIn: https://www.linkedin.com/in/daniel-cargar-mahyar/
