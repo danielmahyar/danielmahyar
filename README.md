@@ -2,7 +2,7 @@
 
 [Picture of Daniel Cargar Mahyar](./profle-picture.jpg)
 
-Welcome to my GitHub profile! I'm Daniel Cargar Mahyar, a 19-year-old male pursuing a BSc. in Software Technology at the Technical University of Denmark. I'm in my third semester of studies and working as a freelancer while venturing into starting my own software company. 
+Welcome to my GitHub profile! I'm Daniel Cargar Mahyar, a 20-year-old male pursuing a BSc. in Software Technology at the Technical University of Denmark. I'm in my fifth semester of studies and working as a student software engineer at Langstack while pursuing my dream of starting my own software company. 
 
 ## About Me
 
