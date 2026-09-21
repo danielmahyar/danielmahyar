@@ -1,19 +1,31 @@
-# Hi, I am Daniel Cargar Mahyar
+# Daniel Cargar Mahyar
 
-[Picture of Daniel Cargar Mahyar](./profle-picture.jpg)
+Software Engineer and Computer Science Master’s student at the Technical University of Denmark (DTU). With over three years of professional experience alongside my studies, I specialize in building end-to-end, high-quality software solutions, focusing on practical architecture and clean system design.
 
-Welcome to my GitHub profile! I'm Daniel Cargar Mahyar, a 20-year-old male pursuing a BSc. in Software Technology at the Technical University of Denmark. I'm in my fifth semester of studies and working as a student software engineer at Langstack while pursuing my dream of starting my own software company. 
+## About My Work
 
-## About Me
+I currently work as a full-stack engineer developing both customer-facing platforms and internal enterprise products. My technical experience covers the entire application lifecycle, allowing me to take ownership of various system layers—from managing Linux environments to architecting cloud infrastructure.
 
-I have always had a strong passion for software development and enjoy the entire process of taking an idea and transforming it into a fully tested and functional product. My programming skills encompass various domains, including web, mobile, and desktop applications. I'm involved in every aspect of the software development lifecycle, from creating user interfaces and designing intuitive experiences to developing robust backend systems.
+Recently, my primary focus has been on **frontend AI integration**, bridging the gap between powerful backend models and intuitive, real-time user experiences.
 
-## Academic Background
+**Key areas of expertise:**
 
-During my time at the university, I've gained proficiency in Python and Java, focusing on software engineering principles such as SOLID principles, TDD/BDD, algorithms, and data structures. This academic foundation has equipped me with a strong understanding of industry best practices and the ability to build scalable and efficient software solutions.
+* **Full-Stack Development:** Building responsive frontend applications and managing complex, real-time data connections.
+* **Backend & Architecture:** Designing, building, and maintaining scalable microservices.
+* **Cloud & Infrastructure:** Deploying and managing solutions across both AWS and Azure, with deep experience in Linux environments.
+* **AI Integration:** Building and designing AI protocols to facilitate complex multi-modal communication between client and server.
 
-## Get in Touch
+## Technical Overview
 
-Feel free to contact me if you have any questions, suggestions, or collaboration opportunities. You can reach me via email at danielcargarmahyar@gmail.com. I'm always open to connecting with fellow developers and exploring new possibilities.
+| Area | Technologies & Concepts |
+| --- | --- |
+| **Architecture** | Microservices, System Design, Distributed Systems, Real-Time Connections |
+| **Infrastructure** | AWS, Azure, Linux Administration |
+| **Current Focus** | Frontend AI Integration, Full-Stack Development |
 
-Thank you for visiting my GitHub profile! I hope you find my projects and contributions insightful.
+## Let's Connect
+
+Whether it is discussing scalable cloud architectures, AI in modern frontends, or potential collaboration opportunities, I am always open to a conversation.
+
+* **Email:** danielcargarmahyar@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/daniel-cargar-mahyar/
